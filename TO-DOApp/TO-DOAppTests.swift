@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import CoreDataPractice
+@testable import TO_DO_App
 
 class CoreDataPracticeTests: XCTestCase {
 
